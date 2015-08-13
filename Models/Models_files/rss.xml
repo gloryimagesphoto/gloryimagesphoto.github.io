@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Glory Images Photography</title>
+    <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Models/Models.html</link>
+    <description>There are times when you find those perfect spots or ideas for a model to have their picture taken. These are some examples of those times. These pictures are for sample only, and are not for sale.</description>
+    <item>
+      <title>Alyssa modeling</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Models/Pages/Alyssa_modeling.html</link>
+      <guid isPermaLink="false">041b4e3f-8510-4bac-81c1-6afbb2738d1e</guid>
+    </item>
+    <item>
+      <title>Sara Modeling</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Models/Pages/Sara_Modeling.html</link>
+      <guid isPermaLink="false">dd720eab-1d85-4724-9405-a882c996cf43</guid>
+    </item>
+    <item>
+      <title>Family photos</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Models/Pages/Family_photos.html</link>
+      <guid isPermaLink="false">1b94bab7-447a-40ef-9fe6-86836cd0ec49</guid>
+    </item>
+  </channel>
+</rss>

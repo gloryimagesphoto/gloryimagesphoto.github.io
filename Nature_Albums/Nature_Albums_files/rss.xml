@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Glory Images Photography</title>
+    <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Nature_Albums.html</link>
+    <description>Here are some photographs I have taken over the past few years, while expanding my view of the world.</description>
+    <item>
+      <title>Animals</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/Animals.html</link>
+      <guid isPermaLink="false">29bebc14-d72f-4073-aab9-1e80f038eb42</guid>
+    </item>
+    <item>
+      <title>swimming hole @ Dover NH</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/swimming_hole_%40_Dover_NH.html</link>
+      <guid isPermaLink="false">617640d5-ac1e-4bab-b130-9cad4daa0346</guid>
+    </item>
+    <item>
+      <title>flowers</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/flowers.html</link>
+      <guid isPermaLink="false">8a49d030-fc86-4ac5-b966-8a6f46ac908b</guid>
+    </item>
+    <item>
+      <title>Pollards Mill in Newport, NH</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/Pollards_Mill_in_Newport,_NH.html</link>
+      <guid isPermaLink="false">b010d377-9f03-4c39-8e7b-e2ad338e8513</guid>
+    </item>
+    <item>
+      <title>Bemis River trail @ Crawford Notch, NH</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/Bemis_River_trail_%40_Crawford_Notch,_NH.html</link>
+      <guid isPermaLink="false">2d245e73-d2f1-43e6-bcd7-c11d6eb86a12</guid>
+    </item>
+    <item>
+      <title>Arethusa Falls, Crawford Notch, NH</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/Arethusa_Falls,_Crawford_Notch,_NH.html</link>
+      <guid isPermaLink="false">c3f38485-24a1-4efa-a52a-e5c6681c65e1</guid>
+    </item>
+    <item>
+      <title>Exploring HDR</title>
+      <link>http://www.gloryimagesphoto.com/GloryImagesPhoto/Nature_Albums/Pages/Exploring_HDR.html</link>
+      <guid isPermaLink="false">52312a29-52c1-40a1-b9cc-50dc3b6fefc7</guid>
+    </item>
+  </channel>
+</rss>
